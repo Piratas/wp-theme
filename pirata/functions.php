@@ -18,15 +18,15 @@ function theme_enqueue_styles() {
 }
 
 ## Internacionalização
-function pirata_child_setup() {
-	load_child_theme_textdomain(
-		'pirata-child',
+function pirata_setup() {
+	load_theme_textdomain(
+		'pirata',
 		get_stylesheet_directory() . '/languages',
 	);
 }
 add_action(
 	'after_setup_theme',
-	'pirata_child_setup',
+	'pirata_setup',
 );
 
 ?>
