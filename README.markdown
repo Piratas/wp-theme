@@ -11,6 +11,6 @@ Se alguém for botar no Github ou em outro lugar, lembre-se de dar push no repos
 
 # Licença
 
-GPL 3.0
+GNU General Public License 3.0
 
 Veja o arquivo LICENSE
