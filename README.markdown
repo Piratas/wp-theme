@@ -1,15 +1,15 @@
-Tema do Wordpress pirata
+ï»¿Tema do Wordpress pirata
 ===
 
-Tema em desenvolvimento pelo GTI Gaúcho.
+Tema em desenvolvimento pelo GTI GaÃºcho.
 
-[Tópico no Loomio](https://www.loomio.org/d/9KWZkjh4/wordpress-iniciacao-do-re-desenvolvimento-do-website) (fechado)
+[TÃ³pico no Loomio](https://www.loomio.org/d/9KWZkjh4/wordpress-iniciacao-do-re-desenvolvimento-do-website) (fechado)
 
-[Repositório principal](https://notabug.org/piratas/wp-theme)
+[RepositÃ³rio principal](https://notabug.org/piratas/wp-theme)
 
-Se alguém for botar no Github ou em outro lugar, lembre-se de dar push no repositório upstream do Notabug.
+Se alguÃ©m for botar no Github ou em outro lugar, lembre-se de dar push no repositÃ³rio upstream do Notabug.
 
-# Licença
+# LicenÃ§a
 
 GPL 3.0
 
